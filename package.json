@@ -1,16 +1,16 @@
 {
-  "name": "quickswap-sdk",
+  "name": "bigswap-sdk",
   "license": "MIT",
-  "version": "3.0.8",
-  "description": "🛠 An SDK for building applications on top of Quickswap.",
+  "version": "3.0.9",
+  "description": "🛠 An SDK for building applications on top of Bigswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sameepsi/quickswap-sdk.git",
+  "repository": "https://github.com/muutualswap/quickswap-sdk.git",
   "keywords": [
-    "quickswap",
+    "bigswap",
     "matic",
     "ethereum"
   ],
